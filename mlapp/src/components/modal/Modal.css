@@ -1,0 +1,39 @@
+.Modal {
+    position: absolute;
+    z-index: 500;
+
+    background-color: rgb(255, 255, 255);
+    box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.253);
+    border-radius: 8px;
+    
+    width: 30%;
+    top: 30%;
+    left: 40%;
+    padding: 1rem;
+    transition: all 0.4s ease-out;
+
+
+    min-width: 10rem;
+    max-width: 20rem;
+    /* box-shadow: 1px 4px 20px -6px rgba(0, 0, 0, 0.75); */
+   
+}
+
+.Backdrop{
+    width: 100vw;
+    height: 142vh;
+    position: absolute;
+    z-index: 100;
+    left: 0;
+    top: 0;
+    background-color: black;
+    opacity: 0.5;
+}
+
+.Content {
+    height: 19rem;
+}
+
+.Content img {
+ 
+}

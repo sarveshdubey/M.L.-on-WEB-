@@ -1,0 +1,12 @@
+
+
+.App {
+  text-align: center;
+  /*backgund-image: url(./Assets/417644.jpg);
+  background-position: 0% 0%;
+  background-size: contain;
+  background-repeat: repeat;
+  */
+  width: 100vw;
+  height: 100vh;
+}

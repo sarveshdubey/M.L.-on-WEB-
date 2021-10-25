@@ -1,0 +1,26 @@
+node.js
+"dependencies": {
+    "body-parser": "^1.19.0",
+    "child_process": "^1.0.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.14"
+  }
+
+
+react.js
+"dependencies": {
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "axios": "^0.23.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+    "styled-components": "^5.3.3",
+    "web-vitals": "^1.1.2"
+  }
+
+
+'mlapp' is the react app handling the frontend work
+whereas, 'ml_webapp' is the node.js work that is handling the backend of the application.
