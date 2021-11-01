@@ -2,3 +2,4 @@
 To predict life of a passenger on Titanic on MERN app.
 Open requirement.txt file for further details.
 Watch out sample image.
+new.ipynb is the ML code.
